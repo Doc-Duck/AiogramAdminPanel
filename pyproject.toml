@@ -6,9 +6,10 @@ authors = ["Doc-Duck <ivanutkin2001@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3.9"
 aiogram = "^3.10.0"
 ruff = "^0.5.4"
+pre-commit = "^3.7.1"
 
 
 [build-system]
